@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275870345411",
+    "project_id": "shop-uilover",
+    "storage_bucket": "shop-uilover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275870345411:android:2376119ba0ad485f369a76",
+        "android_client_info": {
+          "package_name": "com.vicnuel.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX_9TzbdTg21J91th5WgpLaxbfpzFIwF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

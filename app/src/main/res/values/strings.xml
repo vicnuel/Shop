@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="intro_title">Crie o seu estilo <font color="#6033ba">E \n mostre para o mundo</font></string>
+    <string name="intro_text">Confira as últimas tendencias da moda\nObtenha recomendações Personalizadas\nCompra rápida e segura</string>
+    <string name="text_startBnt">Acessar agora</string>
+    <string name="intro_signin">Não tem uma conta? <font color="#6033ba">Criar nova conta</font></string>
+    <string name="welcome">Bem-vindo de volta</string>
+    <string name="vicnuel">Vicnuel</string>
+    <string name="bell_description">Notificações</string>
+    <string name="seach_description">Fazer busca</string>
+    <string name="official_brand">Marca Official</string>
+    <string name="see_all">Ver todas</string>
+    <string name="recommendations">Recomendações</string>
+    <string name="explore">Explorar</string>
+    <string name="title">Titúlo</string>
+    <string name="real">R$</string>
+    <string name="title_example">Title</string>
+    <string name="escolha_o_tamanho">Escolha o tamanho</string>
+    <string name="empty_car_message">Seu carrinho está vazio</string>
+    <string name="my_car">Meu carrinho</string>
+</resources>
