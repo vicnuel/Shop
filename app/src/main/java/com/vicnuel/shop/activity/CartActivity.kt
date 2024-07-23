@@ -47,12 +47,12 @@ class CartActivity : BaseActivity() {
         val delivery = 10.0
         tax = Math.round(managmentCart.getTotalFee()*percentTax*100)/100.0
 
-        val total = Math.round((managmentCart.getTotalFee()+tax+delivery)*100) / 100
-        val itemTotal  = Math.round(managmentCart.getTotalFee()*100) /100
+        val total = Math.round((managmentCart.getTotalFee()+tax+delivery)*100) / 100.0
+        val itemTotal  = Math.round(managmentCart.getTotalFee()*100) /100.0
 
         with(binding) {
             totalFeeTxt.text="R$ $itemTotal"
-            taxTxt.text="R$ $itemTotal"
+            taxTxt.text="R$ $tax"
             deliveryTxt.text = "R$ $delivery"
             totalTxt.text="R$ $total"
         }
